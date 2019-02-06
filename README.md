@@ -1,4 +1,4 @@
-This is a repository for different deep learning based text classification that I implemented. It does not have a data layer
+This is a repository for different deep learning based text classification that I implemented. The models are inspired by different tasks in NLP such as text entailment, Question Answering, etc. and not just standard text classification. It does not have a data layer
 as of now since I initially coded these models for a different project. I'll be adding a data layer in the future.
 
 All of them are coded in Pytorch 1.0 and have the dimensions commented next to each vector operation. I found this very
