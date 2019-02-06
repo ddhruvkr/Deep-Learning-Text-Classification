@@ -1,0 +1,237 @@
+
+
+BIRNN, toxic, word-seg-org, 150 hid_dim, 200 emb_dim
+
+
+validation accuracy
+77.65 82.12 79.82 88.88
+test accuracy
+77.99 83.55 80.67 89.35
+
+validation accuracy
+72.4 86.66 78.89 88.43
+test accuracy
+72.64 87.1 79.21 88.61
+
+validation accuracy
+77.03 82.86 79.84 88.9
+test accuracy
+76.35 82.81 79.45 88.68
+
+validation accuracy
+75.14 84.44 79.52 88.74
+test accuracy
+76.12 84.83 80.24 89.13
+
+validation accuracy
+77.13 82.68 79.8 88.88
+test accuracy
+77.69 83.62 80.54 89.28
+
+validation accuracy
+75.24 84.18 79.46 88.71
+test accuracy
+75.62 84.71 79.91 88.96
+
+validation accuracy
+78.76 81.52 80.11 89.03
+test accuracy
+78.77 82.4 80.54 89.27
+
+validation accuracy
+74.29 85.59 79.54 88.77
+test accuracy
+74.34 86.62 80.01 89.03
+
+validation accuracy
+75.24 83.78 79.28 88.61
+test accuracy
+76.21 84.9 80.33 89.18
+
+validation accuracy
+76.74 82.46 79.49 88.71
+test accuracy
+76.87 82.91 79.78 88.86
+
+
+(79.89, 88.90)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BIRNN, toxic, word-seg-org, 150 hid_dim, 200 emb_dim, EWE, avg_pool
+
+
+
+validation accuracy
+78.04 82.44 80.18 89.07
+test accuracy
+77.62 83.69 80.54 89.28
+
+validation accuracy
+76.18 83.92 79.86 88.92
+test accuracy
+76.57 84.44 80.32 89.17
+
+validation accuracy
+79.37 80.5 79.93 88.92
+test accuracy
+79.23 81.2 80.21 89.07
+
+validation accuracy
+76.28 84.09 79.99 88.99
+test accuracy
+76.44 84.7 80.36 89.2
+
+validation accuracy
+75.92 84.27 79.88 88.93
+test accuracy
+76.41 85.31 80.62 89.34
+
+validation accuracy
+78.14 81.9 79.97 88.96
+test accuracy
+78.67 82.6 80.59 89.3
+
+validation accuracy
+77.35 82.55 79.87 88.91
+test accuracy
+77.43 83.42 80.31 89.16
+
+validation accuracy
+75.17 84.82 79.7 88.85
+test accuracy
+75.59 85.91 80.42 89.24
+
+validation accuracy
+77.03 83.53 80.15 89.07
+test accuracy
+77.33 83.55 80.32 89.16
+
+validation accuracy
+76.34 83.56 79.79 88.88
+test accuracy
+76.41 84.17 80.1 89.05
+
+validation accuracy
+74.42 86.16 79.86 88.95
+test accuracy
+74.44 86.44 79.99 89.02
+
+validation accuracy
+75.53 84.32 79.68 88.83
+test accuracy
+75.62 85.02 80.05 89.03
+
+validation accuracy
+77.84 82.75 80.22 89.1
+test accuracy
+77.43 83.07 80.15 89.06
+
+validation accuracy
+77.16 83.73 80.31 89.16
+test accuracy
+77.36 84.36 80.71 89.38
+
+
+(80.15, 89.07)
+
+
+
+
+
+
+
+
+
+
+
+nltk
+
+
+validation accuracy
+75.5 83.23 79.17 88.54
+test accuracy
+74.8 83.61 78.96 88.43
+
+validation accuracy
+73.05 84.19 78.23 88.05
+test accuracy
+73.75 85.18 79.06 88.5
+
+validation accuracy
+74.19 83.99 78.79 88.35
+test accuracy
+74.51 84.61 79.24 88.59
+
+validation accuracy
+74.23 83.9 78.77 88.33
+test accuracy
+74.44 85.3 79.5 88.74
+
+validation accuracy
+71.26 86.65 78.2 88.06
+test accuracy
+71.13 87.07 78.3 88.11
+
+validation accuracy
+73.15 85.07 78.66 88.29
+test accuracy
+72.9 86.12 78.96 88.46
+
+validation accuracy
+76.15 81.15 78.57 88.19
+test accuracy
+76.18 81.82 78.9 88.38
+
+validation accuracy
+70.8 86.78 77.98 87.95
+test accuracy
+71.42 86.98 78.44 88.19
+
+validation accuracy
+74.16 83.74 78.66 88.27
+test accuracy
+73.85 84.82 78.95 88.44
+
+validation accuracy
+77.75 81.27 79.47 88.68
+test accuracy
+77.13 82.2 79.59 88.75
+
+
+(78.82, 88.36)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
